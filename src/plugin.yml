@@ -1,0 +1,62 @@
+name: Creative Colours
+version: v0.1
+main: scranner.colourchat.colourchat
+description: 
+commands:
+    colours:
+        description:
+        usage:
+    color:
+        description:
+        usage:
+    colour:
+        description:
+        usage:
+    colour help:
+        description:
+        usage:
+    color help:
+        description:
+        usage:
+    colors:
+        description:
+        usage:
+    red:
+        description:
+        usage:
+    green:
+        description:
+        usage:
+    yellow:
+        description:
+        usage:
+    navy:
+        description:
+        usage:
+    cyan:
+        description:
+        usage:
+    gold:
+        description:
+        usage:
+    purple:
+        description:
+        usage:
+    teal:
+        description:
+        usage:
+    pink:
+        description:
+        usage:
+    crimson:
+        description:
+        usage:
+    black:
+        description:
+        usage:
+    gray:
+        description:
+        usage:
+    blue:
+        description:
+        usage:
